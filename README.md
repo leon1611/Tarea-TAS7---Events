@@ -85,5 +85,5 @@ WHERE city LIKE '%y%';
   ```
   - Captura:
 
-<img src="./capturas/captura2.png" alt="drawing" width="500"/>
+<img src="./capturas/captura8.png" alt="drawing" width="500"/>
 
